@@ -11,3 +11,5 @@ Feature: Patient login flow
       | patient_key |
       | P1          |
       | P2          |
+
+additional
